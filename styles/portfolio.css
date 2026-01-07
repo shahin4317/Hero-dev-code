@@ -105,7 +105,7 @@ nav .menu a {
     max-width: 585px;
     
 }
-#about{
+#about , #skills , #resume{
     padding-top: 130px;
 }
 #about .about-container{
@@ -130,9 +130,7 @@ nav .menu a {
 .about-info .info-card h4{
     font-size: 20px;
 }
-#skills{
-    padding-top: 130px;
-}
+
 #skills .skills-container{
     width: 71%;
     max-width: 1140px;
@@ -167,4 +165,12 @@ nav .menu a {
     
 
 }
+#resume .resume-container{
+    width: 71%;
+    max-width: 1140px;
+    margin: 113px auto 0;
+    display: flex;
+
+}
+
 
